@@ -1,2 +1,18 @@
 
 /* Your CSS Code here. */
+
+tr th{
+	text-align: left;
+	background-color: #c25e5e;
+}
+
+tr td{
+	text-align: right
+}
+th:first-child, td:first-child {
+            text-align: left;
+        }
+
+.waist_row{background-color: #e59999;}
+.chest_row{background-color: #f2d7d7;}
+.sleeve_row{background-color: #d9dadb;}
